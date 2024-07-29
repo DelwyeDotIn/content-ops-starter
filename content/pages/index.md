@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      Delwye can help study power systems of your production facility and advise
-      upgrades for safety, adequacy and modernization.
+      Delwye(TM) can help study power systems of your production facility and
+      advise upgrades for safety, adequacy and modernization.
     actions:
       - label: Get started
         altText: ''
