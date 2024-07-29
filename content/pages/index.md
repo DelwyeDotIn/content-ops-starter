@@ -320,7 +320,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Electrical Safety
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
