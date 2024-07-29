@@ -324,9 +324,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Safer Plants
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      A service that helps businesses to manage electrical safety.
     actions:
       - label: Get started
         url: /
