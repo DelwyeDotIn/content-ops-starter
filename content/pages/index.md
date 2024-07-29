@@ -323,7 +323,7 @@ sections:
       text: Electrical Safety
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Safer Plants
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
