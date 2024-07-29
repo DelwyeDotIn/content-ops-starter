@@ -229,7 +229,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business faster
+      text: Keep Your Facility Safe and Efficient
       color: text-dark
       styles:
         self:
