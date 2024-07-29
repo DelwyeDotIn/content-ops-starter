@@ -360,8 +360,8 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      A service that provides electrical engineering advice and guidance to
+      production facilities.
     actions:
       - label: Get started
         url: /
