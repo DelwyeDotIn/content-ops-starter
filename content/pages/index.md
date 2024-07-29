@@ -626,7 +626,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Follow the tutorial.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
