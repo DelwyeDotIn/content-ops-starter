@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Site Under Construction. Sample Contents. Dead Links
+      text: Site Under Construction. Sample Contents. Dead Links.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
